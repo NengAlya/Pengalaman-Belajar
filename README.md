@@ -9,3 +9,10 @@ Belajar Dasar Git dan GitHub (Progress 45%)
 **26 Februari 2023**  
 Belajar Dasar Git dan GitHub (Progress 50%)
 * Belajar mengenai Git Branches
+
+**27 Februari 2023**  
+Belajar Dasar Git dan GitHub (Progress 100%)
+* Belajar kolaborasi dengan tim
+* Studi kasus kolaborasi dengan tim
+* GitHub sebagai portofolio
+* Ujian akhir
